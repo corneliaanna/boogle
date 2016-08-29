@@ -1,0 +1,54 @@
+
+*{
+font-family:sans-serif;
+}
+ol{
+    list-style-type:none;
+}
+
+li {
+display:inline; 
+margin: 20px;
+}
+
+#top {
+    float:right;
+}
+
+#anmelden {
+background-color:blue;
+height:30px;
+width: 150px;
+}
+
+#anmelden a{
+color:white;
+}
+
+#logo {
+padding:112px;
+margin:auto;
+}
+
+#search-form {
+width:670px;
+height:38px;
+border:1px solid grey;
+margin-bottom:20px;
+}
+
+#google-suche {
+    margin:30px;
+}
+
+#bottom{
+    display:inline;
+}
+
+#bottom-left {
+ float:left;
+}
+
+#bottom-right {
+    float:right;
+}
